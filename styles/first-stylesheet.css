@@ -1,0 +1,57 @@
+h1  {
+  color: firebrick;
+  text-align: center;
+  background-color: black;
+}
+body  {
+  background-color: darkorange;
+}
+header nav  {
+  background-color: darkseagreen;
+  font-family: Impact, serif, sans-serif;
+}
+header a  {
+  color: black;
+  font-size: 1rem;
+  padding-right: 1rem;
+}
+header a:hover  {
+  color: whitesmoke;
+  text-decoration: none;
+}
+header img   {
+  margin-left: 555px;
+}
+header h2  {
+  text-decoration: underline;
+}
+article  {
+  display: inline-block;
+  background-color: darkseagreen;
+  width: 25em;
+  margin-top: 2em;
+}
+aside h2  {
+  border: 1px black solid;
+  display: inline;
+}
+aside p  {
+  background-color:whitesmoke;
+  display: block;
+  width: 20%;
+}
+footer nav  {
+  background-color: darkseagreen;
+  font-family: Impact;
+}
+footer a  {
+  color: black;
+  text-decoration: none;
+  margin-right: 21rem;
+}
+footer a:first-child{
+  margin-left: 9rem;
+}
+footer a:hover  {
+  color: white;
+}

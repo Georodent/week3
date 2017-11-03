@@ -1,0 +1,44 @@
+body  {
+  background-color: darkgray;
+}
+h1  {
+  background-color: white;
+  text-align: center;
+}
+article  {
+  background-color: yellowgreen;
+}
+header p  {
+  background-color: whitesmoke;
+  display: inline;
+  font-family: Impact, sans-serif, serif;
+}
+section  {
+  background-color: whitesmoke;
+  display: inline-block;
+  border: .5em solid black;
+  text-align: center;
+}
+aside  {
+  float: right;
+  display: inline-block;
+  margin-right: 200px;
+  text-decoration: underline;
+}
+img.virgin  {
+  width: 400px;
+  height: 200px;
+  display: inline-block;
+}
+a.button {
+  -webkit-appearance: button;
+  -moz-appearance: button;
+  appearance: button;
+  border: 10px solid black;
+  border-radius: 25px;
+  text-decoration: none;
+  color: initial;
+  background-color: red;
+    
+} 
+
